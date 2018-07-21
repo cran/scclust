@@ -1,3 +1,8 @@
+# scclust 0.1.2
+
+  * Updates maintainer information.
+
+
 # scclust 0.1.1
 
   * Uses new version of the scclust library (fixes a memory overflow issue).

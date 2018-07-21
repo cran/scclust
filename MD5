@@ -1,6 +1,6 @@
-8b4dea8e0ba35cacbc37f80044c92672 *DESCRIPTION
+4f15bfa89ba39003deafe09eecfff8c0 *DESCRIPTION
 c32d49baa6cfabb4c8ae86a82ec66f94 *NAMESPACE
-4519eb19c138d8600cd9bffff64f9739 *NEWS.md
+2f5f473e53fcbfe5ef628d3f4e070b09 *NEWS.md
 330b555ba7149747673bc8402c41c6e1 *R/hierarchical_clustering.R
 9c07f24db6bb639a596422d2689eede4 *R/input_check.R
 ba4a58ed7e297877c000e58c58500195 *R/internal.R
@@ -69,7 +69,7 @@ b795c28993cf96c289e74895d0d8b11e *tests/replica/replica_nng.R
 6860bd0b54caa237c19bfbf2ff30567c *tests/replica/replica_nng_batches.R
 dd26d7f8ba12d4ddb157850262c8a632 *tests/replica/replica_nng_stable.R
 97fcb58a9a84616b0093997857b76757 *tests/testthat.R
-63f314e8ac7c4a004bc9ce595e71c093 *tests/testthat/config.R
+54ecb22237f207d10666b5fb4781a212 *tests/testthat/config.R
 f57dcc5b2d9c0d7980e82afc904ab9a9 *tests/testthat/test_c_errors.R
 7957a7b310257868ae24f1474231413d *tests/testthat/test_func_input_check.R
 4f8cde8d105d2d40a636c88482450126 *tests/testthat/test_hierarchical_clustering.R
