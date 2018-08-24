@@ -1,3 +1,8 @@
+# scclust 0.2.0
+
+  * Makes defaults friendlier with discrete data
+
+
 # scclust 0.1.2
 
   * Updates maintainer information.
