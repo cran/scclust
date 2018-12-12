@@ -1,6 +1,11 @@
+# scclust 0.2.1
+
+  * Fixes so compilation uses local Makeconf file.
+
+
 # scclust 0.2.0
 
-  * Makes defaults friendlier with discrete data
+  * Makes defaults friendlier with discrete data.
 
 
 # scclust 0.1.2

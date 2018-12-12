@@ -1,6 +1,6 @@
-f5ca1eb25361b30206b4aa16a4d94911 *DESCRIPTION
+0648da1c9de5487ebba285c110260075 *DESCRIPTION
 c32d49baa6cfabb4c8ae86a82ec66f94 *NAMESPACE
-0bc31d1cf015ecc8abff17187fc540a4 *NEWS.md
+5d60a46f530c19fc6f6c59cdcab4c322 *NEWS.md
 330b555ba7149747673bc8402c41c6e1 *R/hierarchical_clustering.R
 9c07f24db6bb639a596422d2689eede4 *R/input_check.R
 ba4a58ed7e297877c000e58c58500195 *R/internal.R
@@ -17,7 +17,7 @@ d01ac9402bd0f3698bd7fa7f238a8c8e *man/is.scclust.Rd
 fd43b8a7866d74c95ebf07911cca06c7 *man/sc_clustering.Rd
 0871ef99111f33357191f1c6409407c2 *man/scclust-package.Rd
 81197655104249a64d593b22cb96daeb *man/scclust.Rd
-2c5d58b0b2b3da6adb5bb1c515b7be3d *src/Makevars
+107da4884e19d5077d3a9ce7e9701a90 *src/Makevars
 91f0a1157213370fdca4677d47647cb0 *src/error.c
 fa9428dea97b9560750dac7317d64732 *src/error.h
 7c9c58cdfb0cc89311799b9c625dd879 *src/hierarchical.c
@@ -25,7 +25,7 @@ fa9428dea97b9560750dac7317d64732 *src/error.h
 30966ec9b3b1bb2afc3672ca57b7bf87 *src/internal.c
 f9889ae7e84da34da80a4a21f8f19a32 *src/internal.h
 aafda896eaede3729318e4093f288504 *src/libscclust/LICENSE
-0f2c232d4b92bd50264267fa265abd35 *src/libscclust/Makefile
+02ef306ac318daedb4a207b880e31497 *src/libscclust/Makefile
 dbab38cc043026b37bec6ab9fe9ecbba *src/libscclust/include/scclust.h
 918ef5fd4e49a9964dda0d5b4348fda6 *src/libscclust/include/scclust_spi.h
 61c532e143b93baa5b10d3bb35ccd183 *src/libscclust/src/clustering_struct.h
