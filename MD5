@@ -1,6 +1,6 @@
-0648da1c9de5487ebba285c110260075 *DESCRIPTION
+a1881f9109c78c19b2e5319b07bdc7fb *DESCRIPTION
 c32d49baa6cfabb4c8ae86a82ec66f94 *NAMESPACE
-5d60a46f530c19fc6f6c59cdcab4c322 *NEWS.md
+420ece2476ed9d6f986c752181e4ef7b *NEWS.md
 330b555ba7149747673bc8402c41c6e1 *R/hierarchical_clustering.R
 9c07f24db6bb639a596422d2689eede4 *R/input_check.R
 ba4a58ed7e297877c000e58c58500195 *R/internal.R
@@ -25,7 +25,7 @@ fa9428dea97b9560750dac7317d64732 *src/error.h
 30966ec9b3b1bb2afc3672ca57b7bf87 *src/internal.c
 f9889ae7e84da34da80a4a21f8f19a32 *src/internal.h
 aafda896eaede3729318e4093f288504 *src/libscclust/LICENSE
-02ef306ac318daedb4a207b880e31497 *src/libscclust/Makefile
+67c510d77d91dd767b272ddf8d6783f2 *src/libscclust/Makefile
 dbab38cc043026b37bec6ab9fe9ecbba *src/libscclust/include/scclust.h
 918ef5fd4e49a9964dda0d5b4348fda6 *src/libscclust/include/scclust_spi.h
 61c532e143b93baa5b10d3bb35ccd183 *src/libscclust/src/clustering_struct.h

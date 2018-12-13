@@ -1,6 +1,6 @@
 # Use 64-bit arc ref: -DSCC_ARC64
-# Use stable findseed: -DSCC_STABLE_FINDSEED
 # Use stable NNG: -DSCC_STABLE_NNG
+# Use stable findseed: -DSCC_STABLE_FINDSEED
 XTRA_FLAGS =
 
 LIBOBJS = \
@@ -21,7 +21,7 @@ LIBOBJS = \
 libscclust.a: $(LIBOBJS)
 	$(R_AR) -rcs libscclust.a $^
 
-.c.o:
+%.o: %.c
 	$(R_CC) $(R_CPPFLAGS) $(R_CFLAGS) $(XTRA_FLAGS) -c $< -o $@
 
 clean:

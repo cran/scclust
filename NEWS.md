@@ -1,3 +1,8 @@
+# scclust 0.2.2
+
+  * Fixes incompatibility error with Sun make.
+
+
 # scclust 0.2.1
 
   * Fixes so compilation uses local Makeconf file.
