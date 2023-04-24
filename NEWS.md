@@ -1,3 +1,11 @@
+# scclust devel
+
+
+# scclust 0.2.3
+
+  * Fixes minor compiler warnings.
+
+
 # scclust 0.2.2
 
   * Fixes incompatibility error with Sun make.

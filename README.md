@@ -1,9 +1,6 @@
 # scclust for R
 
 [![CRAN Status](https://www.r-pkg.org/badges/version/scclust)](https://cran.r-project.org/package=scclust)
-[![Build Status](https://travis-ci.org/fsavje/scclust-R.svg?branch=master)](https://travis-ci.org/fsavje/scclust-R)
-[![Build status](https://ci.appveyor.com/api/projects/status/27c35hhx7vpigs7k/branch/master?svg=true)](https://ci.appveyor.com/project/fsavje/scclust-r/branch/master)
-[![codecov](https://codecov.io/gh/fsavje/scclust-R/branch/master/graph/badge.svg)](https://codecov.io/gh/fsavje/scclust-R)
 
 The `scclust` package is an R wrapper for the [scclust library](https://github.com/fsavje/scclust). The package provides functions to construct near-optimal size-constrained clusterings.
 
@@ -25,14 +22,14 @@ install.packages("scclust")
 
 ## How to install development version
 
-It is recommended to use the stable CRAN version, but the latest development version can be installed directly from Github using [devtools](https://github.com/hadley/devtools):
+It is recommended to use the stable CRAN version, but the latest development version can be installed directly from Github using [devtools](https://github.com/r-lib/devtools):
 
 ```R
 if (!require("devtools")) install.packages("devtools")
 devtools::install_github("fsavje/scclust-R")
 ```
 
-The package contains compiled code, and you must have a development environment to install the development version. (Use `devtools::has_devel()` to check whether you do.) If no development environment exists, Windows users download and install [Rtools](https://cran.r-project.org/bin/windows/Rtools/) and macOS users download and install [Xcode](https://itunes.apple.com/us/app/xcode/id497799835).
+The package contains compiled code, and you must have a development environment to install the development version. (Use `devtools::has_devel()` to check whether you do.) If no development environment exists, Windows users download and install [Rtools](https://cran.r-project.org/bin/windows/Rtools/) and macOS users download and install [Xcode](https://apps.apple.com/us/app/xcode/id497799835).
 
 
 ## How to use scclust
