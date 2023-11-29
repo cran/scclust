@@ -1,6 +1,6 @@
-bc25818144f0ae47d14103f7fe5a9606 *DESCRIPTION
+9bea9874c93899fc7e9428bea7a54cad *DESCRIPTION
 c32d49baa6cfabb4c8ae86a82ec66f94 *NAMESPACE
-d7a7fbea5ca6c9443dd61b20873f783e *NEWS.md
+2b063254b6a7e4bc90afa97a651b8fa5 *NEWS.md
 330b555ba7149747673bc8402c41c6e1 *R/hierarchical_clustering.R
 9c07f24db6bb639a596422d2689eede4 *R/input_check.R
 ba4a58ed7e297877c000e58c58500195 *R/internal.R
@@ -18,7 +18,7 @@ d01ac9402bd0f3698bd7fa7f238a8c8e *man/is.scclust.Rd
 9bb1dca48da2647e25b3f5219259fad0 *man/scclust-package.Rd
 81197655104249a64d593b22cb96daeb *man/scclust.Rd
 107da4884e19d5077d3a9ce7e9701a90 *src/Makevars
-91f0a1157213370fdca4677d47647cb0 *src/error.c
+46c52d95266a6cf7f3bf522533aee455 *src/error.c
 deaa55e552e5f2b68fe18def22990760 *src/error.h
 7c9c58cdfb0cc89311799b9c625dd879 *src/hierarchical.c
 704c73ad52ba5b81d24c7fd5ab8bd44e *src/hierarchical.h
