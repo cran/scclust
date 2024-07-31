@@ -1,3 +1,8 @@
+# scclust 0.2.5
+
+  * Update email address.
+
+
 # scclust 0.2.4
 
   * Use string literals when calling R internal function `error()` for error messaging.
